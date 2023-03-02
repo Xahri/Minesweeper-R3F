@@ -1,7 +1,7 @@
 This is a project made using React and React Three Fiber (R3F), <br>
 It's a Minesweeper game with 3D elements <br>
 
-[Minesweeper Project Preview](https://orrery-r3f.vercel.app/) <br>
+[Minesweeper Project Preview](https://minesweeper-r3f.vercel.app/) <br>
 <br>
 
 
